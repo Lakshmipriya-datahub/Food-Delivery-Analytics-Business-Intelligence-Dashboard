@@ -2,7 +2,7 @@
 
 An end-to-end Business Intelligence & Data Analytics Solution built using Qlik Sense / Qlik Cloud. This dashboard provides actionable operational insights, financial performance metrics, customer behavior trends, and delivery efficiency analyses for a large-scale food delivery business.
 
-## Problem Statement
+## 🎯 Problem Statement
 
 Food delivery platforms generate large volumes of data related to orders, customers, restaurants, food items, delivery operations, discounts, revenue and customer behavior.
 
@@ -27,6 +27,10 @@ However, raw transactional data makes it difficult for business teams to quickly
 • Which payment methods drive the highest net revenue?
 
 Therefore, the objective of this project is to transform raw food-delivery data into an interactive Business Intelligence dashboard using Qlik Sense, enabling stakeholders to monitor KPIs, identify trends, understand customer and operational performance, and make data-driven business decisions.
+
+## 📁 Dataset 
+
+Swiggy_business_performance_data.csv
 
 ## 📌 Executive Summary & Key KPIs
 
